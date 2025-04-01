@@ -1,0 +1,6 @@
+langchain_opentutorial
+langsmith
+langchain
+langchain_openai
+langchain_community
+dotenv
